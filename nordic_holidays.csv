@@ -1,0 +1,216 @@
+,date,holiday,country
+0,2016-01-01,Uudenvuodenpäivä,Finland
+1,2016-01-06,Loppiainen,Finland
+2,2016-03-25,Pitkäperjantai,Finland
+3,2016-03-27,Pääsiäispäivä,Finland
+4,2016-03-28,2. pääsiäispäivä,Finland
+5,2016-05-01,Vappu,Finland
+6,2016-05-05,Helatorstai,Finland
+7,2016-05-15,Helluntaipäivä,Finland
+8,2016-06-25,Juhannuspäivä,Finland
+9,2016-11-05,Pyhäinpäivä,Finland
+10,2016-12-06,Itsenäisyyspäivä,Finland
+11,2016-12-25,Joulupäivä,Finland
+12,2016-12-26,Tapaninpäivä,Finland
+13,2016-06-24,Juhannusaatto,Finland
+14,2016-12-24,Jouluaatto,Finland
+15,2017-01-01,Uudenvuodenpäivä,Finland
+16,2017-01-06,Loppiainen,Finland
+17,2017-04-14,Pitkäperjantai,Finland
+18,2017-04-16,Pääsiäispäivä,Finland
+19,2017-04-17,2. pääsiäispäivä,Finland
+20,2017-05-01,Vappu,Finland
+21,2017-05-25,Helatorstai,Finland
+22,2017-06-04,Helluntaipäivä,Finland
+23,2017-06-24,Juhannuspäivä,Finland
+24,2017-11-04,Pyhäinpäivä,Finland
+25,2017-12-06,Itsenäisyyspäivä,Finland
+26,2017-12-25,Joulupäivä,Finland
+27,2017-12-26,Tapaninpäivä,Finland
+28,2017-06-23,Juhannusaatto,Finland
+29,2017-12-24,Jouluaatto,Finland
+30,2018-01-01,Uudenvuodenpäivä,Finland
+31,2018-01-06,Loppiainen,Finland
+32,2018-03-30,Pitkäperjantai,Finland
+33,2018-04-01,Pääsiäispäivä,Finland
+34,2018-04-02,2. pääsiäispäivä,Finland
+35,2018-05-01,Vappu,Finland
+36,2018-05-10,Helatorstai,Finland
+37,2018-05-20,Helluntaipäivä,Finland
+38,2018-06-23,Juhannuspäivä,Finland
+39,2018-11-03,Pyhäinpäivä,Finland
+40,2018-12-06,Itsenäisyyspäivä,Finland
+41,2018-12-25,Joulupäivä,Finland
+42,2018-12-26,Tapaninpäivä,Finland
+43,2018-06-22,Juhannusaatto,Finland
+44,2018-12-24,Jouluaatto,Finland
+45,2019-01-01,Uudenvuodenpäivä,Finland
+46,2019-01-06,Loppiainen,Finland
+47,2019-04-19,Pitkäperjantai,Finland
+48,2019-04-21,Pääsiäispäivä,Finland
+49,2019-04-22,2. pääsiäispäivä,Finland
+50,2019-05-01,Vappu,Finland
+51,2019-05-30,Helatorstai,Finland
+52,2019-06-09,Helluntaipäivä,Finland
+53,2019-06-22,Juhannuspäivä,Finland
+54,2019-11-02,Pyhäinpäivä,Finland
+55,2019-12-06,Itsenäisyyspäivä,Finland
+56,2019-12-25,Joulupäivä,Finland
+57,2019-12-26,Tapaninpäivä,Finland
+58,2019-06-21,Juhannusaatto,Finland
+59,2019-12-24,Jouluaatto,Finland
+60,2015-01-01,Uudenvuodenpäivä,Finland
+61,2015-01-06,Loppiainen,Finland
+62,2015-04-03,Pitkäperjantai,Finland
+63,2015-04-05,Pääsiäispäivä,Finland
+64,2015-04-06,2. pääsiäispäivä,Finland
+65,2015-05-01,Vappu,Finland
+66,2015-05-14,Helatorstai,Finland
+67,2015-05-24,Helluntaipäivä,Finland
+68,2015-06-20,Juhannuspäivä,Finland
+69,2015-10-31,Pyhäinpäivä,Finland
+70,2015-12-06,Itsenäisyyspäivä,Finland
+71,2015-12-25,Joulupäivä,Finland
+72,2015-12-26,Tapaninpäivä,Finland
+73,2015-06-19,Juhannusaatto,Finland
+74,2015-12-24,Jouluaatto,Finland
+75,2016-01-01,Første nyttårsdag,Norway
+76,2016-05-01,Arbeidernes dag,Norway
+77,2016-05-17,Grunnlovsdag,Norway
+78,2016-12-25,Første juledag,Norway
+79,2016-12-26,Andre juledag,Norway
+80,2016-03-24,Skjærtorsdag,Norway
+81,2016-03-25,Langfredag,Norway
+82,2016-03-27,Første påskedag,Norway
+83,2016-03-28,Andre påskedag,Norway
+84,2016-05-05,Kristi himmelfartsdag,Norway
+85,2016-05-15,Første pinsedag,Norway
+86,2016-05-16,Andre pinsedag,Norway
+87,2017-01-01,Første nyttårsdag,Norway
+88,2017-05-01,Arbeidernes dag,Norway
+89,2017-05-17,Grunnlovsdag,Norway
+90,2017-12-25,Første juledag,Norway
+91,2017-12-26,Andre juledag,Norway
+92,2017-04-13,Skjærtorsdag,Norway
+93,2017-04-14,Langfredag,Norway
+94,2017-04-16,Første påskedag,Norway
+95,2017-04-17,Andre påskedag,Norway
+96,2017-05-25,Kristi himmelfartsdag,Norway
+97,2017-06-04,Første pinsedag,Norway
+98,2017-06-05,Andre pinsedag,Norway
+99,2018-01-01,Første nyttårsdag,Norway
+100,2018-05-01,Arbeidernes dag,Norway
+101,2018-05-17,Grunnlovsdag,Norway
+102,2018-12-25,Første juledag,Norway
+103,2018-12-26,Andre juledag,Norway
+104,2018-03-29,Skjærtorsdag,Norway
+105,2018-03-30,Langfredag,Norway
+106,2018-04-01,Første påskedag,Norway
+107,2018-04-02,Andre påskedag,Norway
+108,2018-05-10,Kristi himmelfartsdag,Norway
+109,2018-05-20,Første pinsedag,Norway
+110,2018-05-21,Andre pinsedag,Norway
+111,2019-01-01,Første nyttårsdag,Norway
+112,2019-05-01,Arbeidernes dag,Norway
+113,2019-05-17,Grunnlovsdag,Norway
+114,2019-12-25,Første juledag,Norway
+115,2019-12-26,Andre juledag,Norway
+116,2019-04-18,Skjærtorsdag,Norway
+117,2019-04-19,Langfredag,Norway
+118,2019-04-21,Første påskedag,Norway
+119,2019-04-22,Andre påskedag,Norway
+120,2019-05-30,Kristi himmelfartsdag,Norway
+121,2019-06-09,Første pinsedag,Norway
+122,2019-06-10,Andre pinsedag,Norway
+123,2015-01-01,Første nyttårsdag,Norway
+124,2015-05-01,Arbeidernes dag,Norway
+125,2015-05-17,Grunnlovsdag,Norway
+126,2015-12-25,Første juledag,Norway
+127,2015-12-26,Andre juledag,Norway
+128,2015-04-02,Skjærtorsdag,Norway
+129,2015-04-03,Langfredag,Norway
+130,2015-04-05,Første påskedag,Norway
+131,2015-04-06,Andre påskedag,Norway
+132,2015-05-14,Kristi himmelfartsdag,Norway
+133,2015-05-24,Første pinsedag,Norway
+134,2015-05-25,Andre pinsedag,Norway
+135,2016-03-27,Påskdagen,Sweden
+136,2016-05-01,Första maj,Sweden
+137,2016-05-15,Pingstdagen,Sweden
+138,2016-12-25,Juldagen,Sweden
+139,2016-01-01,Nyårsdagen,Sweden
+140,2016-01-06,Trettondedag jul,Sweden
+141,2016-06-06,Sveriges nationaldag,Sweden
+142,2016-12-24,Julafton,Sweden
+143,2016-12-26,Annandag jul,Sweden
+144,2016-12-31,Nyårsafton,Sweden
+145,2016-03-25,Långfredagen,Sweden
+146,2016-03-28,Annandag påsk,Sweden
+147,2016-05-05,Kristi himmelsfärdsdag,Sweden
+148,2016-06-24,Midsommarafton,Sweden
+149,2016-06-25,Midsommardagen,Sweden
+150,2016-11-05,Alla helgons dag,Sweden
+151,2017-01-01,Nyårsdagen,Sweden
+152,2017-04-16,Påskdagen,Sweden
+153,2017-06-04,Pingstdagen,Sweden
+154,2017-12-24,Julafton,Sweden
+155,2017-12-31,Nyårsafton,Sweden
+156,2017-01-06,Trettondedag jul,Sweden
+157,2017-05-01,Första maj,Sweden
+158,2017-06-06,Sveriges nationaldag,Sweden
+159,2017-12-25,Juldagen,Sweden
+160,2017-12-26,Annandag jul,Sweden
+161,2017-04-14,Långfredagen,Sweden
+162,2017-04-17,Annandag påsk,Sweden
+163,2017-05-25,Kristi himmelsfärdsdag,Sweden
+164,2017-06-23,Midsommarafton,Sweden
+165,2017-06-24,Midsommardagen,Sweden
+166,2017-11-04,Alla helgons dag,Sweden
+167,2018-04-01,Påskdagen,Sweden
+168,2018-05-20,Pingstdagen,Sweden
+169,2018-01-01,Nyårsdagen,Sweden
+170,2018-01-06,Trettondedag jul,Sweden
+171,2018-05-01,Första maj,Sweden
+172,2018-06-06,Sveriges nationaldag,Sweden
+173,2018-12-24,Julafton,Sweden
+174,2018-12-25,Juldagen,Sweden
+175,2018-12-26,Annandag jul,Sweden
+176,2018-12-31,Nyårsafton,Sweden
+177,2018-03-30,Långfredagen,Sweden
+178,2018-04-02,Annandag påsk,Sweden
+179,2018-05-10,Kristi himmelsfärdsdag,Sweden
+180,2018-06-22,Midsommarafton,Sweden
+181,2018-06-23,Midsommardagen,Sweden
+182,2018-11-03,Alla helgons dag,Sweden
+183,2019-01-06,Trettondedag jul,Sweden
+184,2019-04-21,Påskdagen,Sweden
+185,2019-06-09,Pingstdagen,Sweden
+186,2019-01-01,Nyårsdagen,Sweden
+187,2019-05-01,Första maj,Sweden
+188,2019-06-06,Sveriges nationaldag,Sweden
+189,2019-12-24,Julafton,Sweden
+190,2019-12-25,Juldagen,Sweden
+191,2019-12-26,Annandag jul,Sweden
+192,2019-12-31,Nyårsafton,Sweden
+193,2019-04-19,Långfredagen,Sweden
+194,2019-04-22,Annandag påsk,Sweden
+195,2019-05-30,Kristi himmelsfärdsdag,Sweden
+196,2019-06-21,Midsommarafton,Sweden
+197,2019-06-22,Midsommardagen,Sweden
+198,2019-11-02,Alla helgons dag,Sweden
+199,2015-04-05,Påskdagen,Sweden
+200,2015-05-24,Pingstdagen,Sweden
+201,2015-01-01,Nyårsdagen,Sweden
+202,2015-01-06,Trettondedag jul,Sweden
+203,2015-05-01,Första maj,Sweden
+204,2015-06-06,Sveriges nationaldag,Sweden
+205,2015-12-24,Julafton,Sweden
+206,2015-12-25,Juldagen,Sweden
+207,2015-12-26,Annandag jul,Sweden
+208,2015-12-31,Nyårsafton,Sweden
+209,2015-04-03,Långfredagen,Sweden
+210,2015-04-06,Annandag påsk,Sweden
+211,2015-05-14,Kristi himmelsfärdsdag,Sweden
+212,2015-06-19,Midsommarafton,Sweden
+213,2015-06-20,Midsommardagen,Sweden
+214,2015-10-31,Alla helgons dag,Sweden

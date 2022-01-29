@@ -1,0 +1,433 @@
+date,country,event,type
+2015-01-01,Norway,New Year's Day,public
+2015-02-08,Norway,Mother's Day,unofficial
+2015-02-14,Norway,Valentine's Day,unofficial
+2015-03-20,Norway,Spring Equinox,other
+2015-03-29,Norway,Palm Sunday,unofficial
+2015-03-29,Norway,Daylight Saving Time Start,other
+2015-04-02,Norway,Maundy Thursday,public
+2015-04-03,Norway,Good Friday,public
+2015-04-04,Norway,Holy Saturday,unofficial
+2015-04-05,Norway,Easter Sunday,public
+2015-04-06,Norway,Easter Monday,public
+2015-05-01,Norway,Labour Day,public
+2015-05-08,Norway,Liberation Day,unofficial
+2015-05-14,Norway,Ascension Day,public
+2015-05-17,Norway,Constitution Day,public
+2015-05-24,Norway,Pentecost,public
+2015-05-25,Norway,Whit Monday,public
+2015-06-21,Norway,Summer Solstice,other
+2015-06-23,Norway,Midsummer Eve,unofficial
+2015-09-23,Norway,Autumnal Equinox,other
+2015-10-25,Norway,Daylight Saving Time End,other
+2015-10-31,Norway,Halloween,unofficial
+2015-11-08,Norway,Father's Day,unofficial
+2015-11-29,Norway,First Sunday of Advent,unofficial
+2015-12-06,Norway,Second Sunday of Advent,unofficial
+2015-12-13,Norway,Third Sunday of Advent,unofficial
+2015-12-20,Norway,Fourth Sunday of Advent,unofficial
+2015-12-22,Norway,Winter Solstice,other
+2015-12-24,Norway,Christmas Eve,unofficial
+2015-12-25,Norway,Christmas Day,public
+2015-12-26,Norway,2nd Day of Christmas,public
+2015-12-31,Norway,New Year's Eve,unofficial
+2016-01-01,Norway,New Year's Day,public
+2016-02-14,Norway,Mother's Day,unofficial
+2016-02-14,Norway,Valentine's Day,unofficial
+2016-03-20,Norway,Palm Sunday,unofficial
+2016-03-20,Norway,Spring Equinox,other
+2016-03-24,Norway,Maundy Thursday,public
+2016-03-25,Norway,Good Friday,public
+2016-03-26,Norway,Holy Saturday,unofficial
+2016-03-27,Norway,Easter Sunday,public
+2016-03-27,Norway,Daylight Saving Time Start,other
+2016-03-28,Norway,Easter Monday,public
+2016-05-01,Norway,Labour Day,public
+2016-05-05,Norway,Ascension Day,public
+2016-05-08,Norway,Liberation Day,unofficial
+2016-05-15,Norway,Pentecost,public
+2016-05-16,Norway,Whit Monday,public
+2016-05-17,Norway,Constitution Day,public
+2016-06-20,Norway,Summer Solstice,other
+2016-06-23,Norway,Midsummer Eve,unofficial
+2016-09-22,Norway,Autumnal Equinox,other
+2016-10-30,Norway,Daylight Saving Time End,other
+2016-10-31,Norway,Halloween,unofficial
+2016-11-13,Norway,Father's Day,unofficial
+2016-11-27,Norway,First Sunday of Advent,unofficial
+2016-12-04,Norway,Second Sunday of Advent,unofficial
+2016-12-11,Norway,Third Sunday of Advent,unofficial
+2016-12-18,Norway,Fourth Sunday of Advent,unofficial
+2016-12-21,Norway,Winter Solstice,other
+2016-12-24,Norway,Christmas Eve,unofficial
+2016-12-25,Norway,Christmas Day,public
+2016-12-26,Norway,2nd Day of Christmas,public
+2016-12-31,Norway,New Year's Eve,unofficial
+2017-01-01,Norway,New Year's Day,public
+2017-02-12,Norway,Mother's Day,unofficial
+2017-02-14,Norway,Valentine's Day,unofficial
+2017-03-20,Norway,Spring Equinox,other
+2017-03-26,Norway,Daylight Saving Time Start,other
+2017-04-09,Norway,Palm Sunday,unofficial
+2017-04-13,Norway,Maundy Thursday,public
+2017-04-14,Norway,Good Friday,public
+2017-04-15,Norway,Holy Saturday,unofficial
+2017-04-16,Norway,Easter Sunday,public
+2017-04-17,Norway,Easter Monday,public
+2017-05-01,Norway,Labour Day,public
+2017-05-08,Norway,Liberation Day,unofficial
+2017-05-17,Norway,Constitution Day,public
+2017-05-25,Norway,Ascension Day,public
+2017-06-04,Norway,Pentecost,public
+2017-06-05,Norway,Whit Monday,public
+2017-06-21,Norway,Summer Solstice,other
+2017-06-23,Norway,Midsummer Eve,unofficial
+2017-09-22,Norway,Autumnal Equinox,other
+2017-10-29,Norway,Daylight Saving Time End,other
+2017-10-31,Norway,Halloween,unofficial
+2017-11-12,Norway,Father's Day,unofficial
+2017-12-03,Norway,First Sunday of Advent,unofficial
+2017-12-10,Norway,Second Sunday of Advent,unofficial
+2017-12-17,Norway,Third Sunday of Advent,unofficial
+2017-12-21,Norway,Winter Solstice,other
+2017-12-24,Norway,Christmas Eve,unofficial
+2017-12-24,Norway,Fourth Sunday of Advent,unofficial
+2017-12-25,Norway,Christmas Day,public
+2017-12-26,Norway,2nd Day of Christmas,public
+2017-12-31,Norway,New Year's Eve,unofficial
+2018-01-01,Norway,New Year's Day,public
+2018-02-11,Norway,Mother's Day,unofficial
+2018-02-14,Norway,Valentine's Day,unofficial
+2018-03-20,Norway,Spring Equinox,other
+2018-03-25,Norway,Palm Sunday,unofficial
+2018-03-25,Norway,Daylight Saving Time Start,other
+2018-03-29,Norway,Maundy Thursday,public
+2018-03-30,Norway,Good Friday,public
+2018-03-31,Norway,Holy Saturday,unofficial
+2018-04-01,Norway,Easter Sunday,public
+2018-04-02,Norway,Easter Monday,public
+2018-05-01,Norway,Labour Day,public
+2018-05-08,Norway,Liberation Day,unofficial
+2018-05-10,Norway,Ascension Day,public
+2018-05-17,Norway,Constitution Day,public
+2018-05-20,Norway,Pentecost,public
+2018-05-21,Norway,Whit Monday,public
+2018-06-21,Norway,Summer Solstice,other
+2018-06-23,Norway,Midsummer Eve,unofficial
+2018-09-23,Norway,Autumnal Equinox,other
+2018-10-28,Norway,Daylight Saving Time End,other
+2018-10-31,Norway,Halloween,unofficial
+2018-11-11,Norway,Father's Day,unofficial
+2018-12-02,Norway,First Sunday of Advent,unofficial
+2018-12-09,Norway,Second Sunday of Advent,unofficial
+2018-12-16,Norway,Third Sunday of Advent,unofficial
+2018-12-21,Norway,Winter Solstice,other
+2018-12-23,Norway,Fourth Sunday of Advent,unofficial
+2018-12-24,Norway,Christmas Eve,unofficial
+2018-12-25,Norway,Christmas Day,public
+2018-12-26,Norway,2nd Day of Christmas,public
+2018-12-31,Norway,New Year's Eve,unofficial
+2019-01-01,Norway,New Year's Day,public
+2019-02-10,Norway,Mother's Day,unofficial
+2019-02-14,Norway,Valentine's Day,unofficial
+2019-03-20,Norway,Spring Equinox,other
+2019-03-31,Norway,Daylight Saving Time Start,other
+2019-04-14,Norway,Palm Sunday,unofficial
+2019-04-18,Norway,Maundy Thursday,public
+2019-04-19,Norway,Good Friday,public
+2019-04-20,Norway,Holy Saturday,unofficial
+2019-04-21,Norway,Easter Sunday,public
+2019-04-22,Norway,Easter Monday,public
+2019-05-01,Norway,Labour Day,public
+2019-05-08,Norway,Liberation Day,unofficial
+2019-05-17,Norway,Constitution Day,public
+2019-05-30,Norway,Ascension Day,public
+2019-06-09,Norway,Pentecost,public
+2019-06-10,Norway,Whit Monday,public
+2019-06-21,Norway,Summer Solstice,other
+2019-06-23,Norway,Midsummer Eve,unofficial
+2019-09-23,Norway,Autumnal Equinox,other
+2019-10-27,Norway,Daylight Saving Time End,other
+2019-10-31,Norway,Halloween,unofficial
+2019-11-10,Norway,Father's Day,unofficial
+2019-12-01,Norway,First Sunday of Advent,unofficial
+2019-12-08,Norway,Second Sunday of Advent,unofficial
+2019-12-15,Norway,Third Sunday of Advent,unofficial
+2019-12-22,Norway,Winter Solstice,other
+2019-12-22,Norway,Fourth Sunday of Advent,unofficial
+2019-12-24,Norway,Christmas Eve,unofficial
+2019-12-25,Norway,Christmas Day,public
+2019-12-26,Norway,2nd Day of Christmas,public
+2015-01-01,Finland,New Year,public
+2015-01-06,Finland,Epiphany,public
+2015-02-14,Finland,Valentine's Day,unofficial
+2015-03-20,Finland,Spring Equinox,other
+2015-03-29,Finland,Daylight Saving Time Start,other
+2015-04-03,Finland,Good Friday,public
+2015-04-05,Finland,Easter Sunday,public
+2015-04-06,Finland,Easter Monday,public
+2015-04-30,Finland,Walpurgis Night,unofficial
+2015-05-01,Finland,May Day,public
+2015-05-10,Finland,Mother's Day,unofficial
+2015-05-14,Finland,Ascension Day,public
+2015-05-24,Finland,Pentecost,public
+2015-06-19,Finland,Vigilia di mezza estate,unofficial
+2015-06-20,Finland,Midsummer Day,public
+2015-06-21,Finland,Summer Solstice,other
+2015-09-23,Finland,Autumnal Equinox,other
+2015-10-25,Finland,Daylight Saving Time End,other
+2015-10-31,Finland,All Saints' Day,public
+2015-11-08,Finland,Father's Day,unofficial
+2015-12-06,Finland,Independence Day,public
+2015-12-22,Finland,Winter Solstice,other
+2015-12-24,Finland,Christmas Eve,unofficial
+2015-12-25,Finland,Christmas Day,public
+2015-12-26,Finland,Boxing Day,public
+2015-12-31,Finland,New Year's Eve,unofficial
+2016-01-01,Finland,New Year,public
+2016-01-06,Finland,Epiphany,public
+2016-02-14,Finland,Valentine's Day,unofficial
+2016-03-20,Finland,Spring Equinox,other
+2016-03-25,Finland,Good Friday,public
+2016-03-27,Finland,Easter Sunday,public
+2016-03-27,Finland,Daylight Saving Time Start,other
+2016-03-28,Finland,Easter Monday,public
+2016-04-30,Finland,Walpurgis Night,unofficial
+2016-05-01,Finland,May Day,public
+2016-05-05,Finland,Ascension Day,public
+2016-05-08,Finland,Mother's Day,unofficial
+2016-05-15,Finland,Pentecost,public
+2016-06-17,Finland,Vigilia di mezza estate,unofficial
+2016-06-18,Finland,Midsummer Day,public
+2016-06-20,Finland,Summer Solstice,other
+2016-09-22,Finland,Autumnal Equinox,other
+2016-10-30,Finland,Daylight Saving Time End,other
+2016-11-05,Finland,All Saints' Day,public
+2016-11-13,Finland,Father's Day,unofficial
+2016-12-06,Finland,Independence Day,public
+2016-12-21,Finland,Winter Solstice,other
+2016-12-24,Finland,Christmas Eve,unofficial
+2016-12-25,Finland,Christmas Day,public
+2016-12-26,Finland,Boxing Day,public
+2016-12-31,Finland,New Year's Eve,unofficial
+2017-01-01,Finland,New Year,public
+2017-01-06,Finland,Epiphany,public
+2017-02-14,Finland,Valentine's Day,unofficial
+2017-03-20,Finland,Spring Equinox,other
+2017-03-26,Finland,Daylight Saving Time Start,other
+2017-04-14,Finland,Good Friday,public
+2017-04-16,Finland,Easter Sunday,public
+2017-04-17,Finland,Easter Monday,public
+2017-04-30,Finland,Walpurgis Night,unofficial
+2017-05-01,Finland,May Day,public
+2017-05-14,Finland,Mother's Day,unofficial
+2017-05-25,Finland,Ascension Day,public
+2017-06-04,Finland,Pentecost,public
+2017-06-16,Finland,Vigilia di mezza estate,unofficial
+2017-06-17,Finland,Midsummer Day,public
+2017-06-21,Finland,Summer Solstice,other
+2017-09-22,Finland,Autumnal Equinox,other
+2017-10-29,Finland,Daylight Saving Time End,other
+2017-11-04,Finland,All Saints' Day,public
+2017-11-12,Finland,Father's Day,unofficial
+2017-12-06,Finland,Independence Day,public
+2017-12-21,Finland,Winter Solstice,other
+2017-12-24,Finland,Christmas Eve,unofficial
+2017-12-25,Finland,Christmas Day,public
+2017-12-26,Finland,Boxing Day,public
+2017-12-31,Finland,New Year's Eve,unofficial
+2018-01-01,Finland,New Year,public
+2018-01-06,Finland,Epiphany,public
+2018-02-14,Finland,Valentine's Day,unofficial
+2018-03-20,Finland,Spring Equinox,other
+2018-03-25,Finland,Daylight Saving Time Start,other
+2018-03-30,Finland,Good Friday,public
+2018-04-01,Finland,Easter Sunday,public
+2018-04-02,Finland,Easter Monday,public
+2018-04-30,Finland,Walpurgis Night,unofficial
+2018-05-01,Finland,May Day,public
+2018-05-10,Finland,Ascension Day,public
+2018-05-13,Finland,Mother's Day,unofficial
+2018-05-20,Finland,Pentecost,public
+2018-06-15,Finland,Vigilia di mezza estate,unofficial
+2018-06-16,Finland,Midsummer Day,public
+2018-06-21,Finland,Summer Solstice,other
+2018-09-23,Finland,Autumnal Equinox,other
+2018-10-28,Finland,Daylight Saving Time End,other
+2018-11-03,Finland,All Saints' Day,public
+2018-11-11,Finland,Father's Day,unofficial
+2018-12-06,Finland,Independence Day,public
+2018-12-21,Finland,Winter Solstice,other
+2018-12-24,Finland,Christmas Eve,unofficial
+2018-12-25,Finland,Christmas Day,public
+2018-12-26,Finland,Boxing Day,public
+2018-12-31,Finland,New Year's Eve,unofficial
+2019-01-01,Finland,New Year,public
+2019-01-06,Finland,Epiphany,public
+2019-02-14,Finland,Valentine's Day,unofficial
+2019-03-20,Finland,Spring Equinox,other
+2019-03-31,Finland,Daylight Saving Time Start,other
+2019-04-19,Finland,Good Friday,public
+2019-04-21,Finland,Easter Sunday,public
+2019-04-22,Finland,Easter Monday,public
+2019-04-30,Finland,Walpurgis Night,unofficial
+2019-05-01,Finland,May Day,public
+2019-05-12,Finland,Mother's Day,unofficial
+2019-05-30,Finland,Ascension Day,public
+2019-06-09,Finland,Pentecost,public
+2019-06-15,Finland,Midsummer Day,public
+2019-06-21,Finland,Vigilia di mezza estate,unofficial
+2019-06-21,Finland,Summer Solstice,other
+2019-09-23,Finland,Autumnal Equinox,other
+2019-10-27,Finland,Daylight Saving Time End,other
+2019-11-02,Finland,All Saints' Day,public
+2019-11-10,Finland,Father's Day,unofficial
+2019-12-06,Finland,Independence Day,public
+2019-12-22,Finland,Winter Solstice,other
+2019-12-24,Finland,Christmas Eve,unofficial
+2019-12-25,Finland,Christmas Day,public
+2019-12-26,Finland,Boxing Day,public
+2015-01-01,Sweden,New Year's Day,public
+2015-01-05,Sweden,Twelfth Night,unofficial
+2015-01-06,Sweden,Epiphany,public
+2015-02-14,Sweden,Valentine's Day,unofficial
+2015-03-20,Sweden,Spring Equinox,other
+2015-03-29,Sweden,Daylight Saving Time Start,other
+2015-04-02,Sweden,Maundy Thursday,unofficial
+2015-04-03,Sweden,Good Friday,public
+2015-04-05,Sweden,Easter Sunday,public
+2015-04-06,Sweden,Easter Monday,public
+2015-04-30,Sweden,Walpurgis Night,unofficial
+2015-05-01,Sweden,Labour Day,public
+2015-05-14,Sweden,Ascension Day,public
+2015-05-24,Sweden,Whit Sunday,public
+2015-05-31,Sweden,Mother's Day,unofficial
+2015-06-06,Sweden,National Day,public
+2015-06-19,Sweden,Midsummer Eve,unofficial
+2015-06-20,Sweden,Midsummer's Day,unofficial
+2015-06-21,Sweden,Summer Solstice,other
+2015-09-23,Sweden,Autumnal Equinox,other
+2015-10-25,Sweden,Daylight Saving Time End,other
+2015-10-31,Sweden,All Saints' Day,public
+2015-11-08,Sweden,Father's Day,unofficial
+2015-11-10,Sweden,St. Martin's Day,unofficial
+2015-12-22,Sweden,Winter Solstice,other
+2015-12-24,Sweden,Christmas Eve,unofficial
+2015-12-25,Sweden,Christmas Day,public
+2015-12-26,Sweden,2nd Day of Christmas,public
+2015-12-31,Sweden,New Year's Eve,unofficial
+2016-01-01,Sweden,New Year's Day,public
+2016-01-05,Sweden,Twelfth Night,unofficial
+2016-01-06,Sweden,Epiphany,public
+2016-02-14,Sweden,Valentine's Day,unofficial
+2016-03-20,Sweden,Spring Equinox,other
+2016-03-24,Sweden,Maundy Thursday,unofficial
+2016-03-25,Sweden,Good Friday,public
+2016-03-27,Sweden,Easter Sunday,public
+2016-03-27,Sweden,Daylight Saving Time Start,other
+2016-03-28,Sweden,Easter Monday,public
+2016-04-30,Sweden,Walpurgis Night,unofficial
+2016-05-01,Sweden,Labour Day,public
+2016-05-05,Sweden,Ascension Day,public
+2016-05-15,Sweden,Whit Sunday,public
+2016-05-29,Sweden,Mother's Day,unofficial
+2016-06-06,Sweden,National Day,public
+2016-06-20,Sweden,Summer Solstice,other
+2016-06-24,Sweden,Midsummer Eve,unofficial
+2016-06-25,Sweden,Midsummer's Day,unofficial
+2016-09-22,Sweden,Autumnal Equinox,other
+2016-10-30,Sweden,Daylight Saving Time End,other
+2016-11-05,Sweden,All Saints' Day,public
+2016-11-10,Sweden,St. Martin's Day,unofficial
+2016-11-13,Sweden,Father's Day,unofficial
+2016-12-21,Sweden,Winter Solstice,other
+2016-12-24,Sweden,Christmas Eve,unofficial
+2016-12-25,Sweden,Christmas Day,public
+2016-12-26,Sweden,2nd Day of Christmas,public
+2016-12-31,Sweden,New Year's Eve,unofficial
+2017-01-01,Sweden,New Year's Day,public
+2017-01-05,Sweden,Twelfth Night,unofficial
+2017-01-06,Sweden,Epiphany,public
+2017-02-14,Sweden,Valentine's Day,unofficial
+2017-03-20,Sweden,Spring Equinox,other
+2017-03-26,Sweden,Daylight Saving Time Start,other
+2017-04-13,Sweden,Maundy Thursday,unofficial
+2017-04-14,Sweden,Good Friday,public
+2017-04-16,Sweden,Easter Sunday,public
+2017-04-17,Sweden,Easter Monday,public
+2017-04-30,Sweden,Walpurgis Night,unofficial
+2017-05-01,Sweden,Labour Day,public
+2017-05-25,Sweden,Ascension Day,public
+2017-05-28,Sweden,Mother's Day,unofficial
+2017-06-04,Sweden,Whit Sunday,public
+2017-06-06,Sweden,National Day,public
+2017-06-21,Sweden,Summer Solstice,other
+2017-06-23,Sweden,Midsummer Eve,unofficial
+2017-06-24,Sweden,Midsummer's Day,unofficial
+2017-09-22,Sweden,Autumnal Equinox,other
+2017-10-29,Sweden,Daylight Saving Time End,other
+2017-11-04,Sweden,All Saints' Day,public
+2017-11-10,Sweden,St. Martin's Day,unofficial
+2017-11-12,Sweden,Father's Day,unofficial
+2017-12-21,Sweden,Winter Solstice,other
+2017-12-24,Sweden,Christmas Eve,unofficial
+2017-12-25,Sweden,Christmas Day,public
+2017-12-26,Sweden,2nd Day of Christmas,public
+2017-12-31,Sweden,New Year's Eve,unofficial
+2018-01-01,Sweden,New Year's Day,public
+2018-01-05,Sweden,Twelfth Night,unofficial
+2018-01-06,Sweden,Epiphany,public
+2018-02-14,Sweden,Valentine's Day,unofficial
+2018-03-20,Sweden,Spring Equinox,other
+2018-03-25,Sweden,Daylight Saving Time Start,other
+2018-03-29,Sweden,Maundy Thursday,unofficial
+2018-03-30,Sweden,Good Friday,public
+2018-04-01,Sweden,Easter Sunday,public
+2018-04-02,Sweden,Easter Monday,public
+2018-04-30,Sweden,Walpurgis Night,unofficial
+2018-05-01,Sweden,Labour Day,public
+2018-05-10,Sweden,Ascension Day,public
+2018-05-20,Sweden,Whit Sunday,public
+2018-05-27,Sweden,Mother's Day,unofficial
+2018-06-06,Sweden,National Day,public
+2018-06-21,Sweden,Summer Solstice,other
+2018-06-22,Sweden,Midsummer Eve,unofficial
+2018-06-23,Sweden,Midsummer's Day,unofficial
+2018-09-23,Sweden,Autumnal Equinox,other
+2018-10-28,Sweden,Daylight Saving Time End,other
+2018-11-03,Sweden,All Saints' Day,public
+2018-11-10,Sweden,St. Martin's Day,unofficial
+2018-11-11,Sweden,Father's Day,unofficial
+2018-12-21,Sweden,Winter Solstice,other
+2018-12-24,Sweden,Christmas Eve,unofficial
+2018-12-25,Sweden,Christmas Day,public
+2018-12-26,Sweden,2nd Day of Christmas,public
+2018-12-31,Sweden,New Year's Eve,unofficial
+2019-01-01,Sweden,New Year's Day,public
+2019-01-05,Sweden,Twelfth Night,unofficial
+2019-01-06,Sweden,Epiphany,public
+2019-02-14,Sweden,Valentine's Day,unofficial
+2019-03-20,Sweden,Spring Equinox,other
+2019-03-31,Sweden,Daylight Saving Time Start,other
+2019-04-18,Sweden,Maundy Thursday,unofficial
+2019-04-19,Sweden,Good Friday,public
+2019-04-21,Sweden,Easter Sunday,public
+2019-04-22,Sweden,Easter Monday,public
+2019-04-30,Sweden,Walpurgis Night,unofficial
+2019-05-01,Sweden,Labour Day,public
+2019-05-26,Sweden,Mother's Day,unofficial
+2019-05-30,Sweden,Ascension Day,public
+2019-06-06,Sweden,National Day,public
+2019-06-09,Sweden,Whit Sunday,public
+2019-06-21,Sweden,Midsummer Eve,unofficial
+2019-06-21,Sweden,Summer Solstice,other
+2019-06-22,Sweden,Midsummer's Day,unofficial
+2019-09-23,Sweden,Autumnal Equinox,other
+2019-10-27,Sweden,Daylight Saving Time End,other
+2019-11-02,Sweden,All Saints' Day,public
+2019-11-10,Sweden,St. Martin's Day,unofficial
+2019-11-10,Sweden,Father's Day,unofficial
+2019-12-22,Sweden,Winter Solstice,other
+2019-12-24,Sweden,Christmas Eve,unofficial
+2019-12-25,Sweden,Christmas Day,public
+2019-12-26,Sweden,2nd Day of Christmas,public
