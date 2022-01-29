@@ -1,8 +1,8 @@
 Jupyter Notebooks:
 
-First Attempt: Linear Regression
+[First Attempt: Linear Regression](https://github.com/VictorDonjuan/Forecasting_Sales_Kaggle_Competition/blob/main/First%20Attempt%20Competition.ipynb)
 
-Second Attempt: CatBoost Regressor with Pycaret 
+[Second Attempt: CatBoost Regressor with Pycaret](https://github.com/VictorDonjuan/Forecasting_Sales_Kaggle_Competition/blob/main/Second%20Attempt%20Competition.ipynb)
 
 # Forecasting Sales (TPS Jan 2022 Kaggle Competition): Overview
 
